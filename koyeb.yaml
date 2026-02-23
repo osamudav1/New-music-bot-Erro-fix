@@ -1,0 +1,30 @@
+services:
+  - name: aviax-music-bot
+    git:
+      repo: "https://github.com/osamudav1/Osososmusic"
+      branch: main
+    dockerfile_path: Dockerfile
+    instance_type: micro
+    env:
+      - name: API_ID
+        value: "YOUR_API_ID_HERE"
+      - name: API_HASH
+        value: "YOUR_API_HASH_HERE"
+      - name: BOT_TOKEN
+        value: "YOUR_BOT_TOKEN_HERE"
+      - name: STRING_SESSION
+        value: "YOUR_PYROGRAM_SESSION_STRING_HERE"
+      - name: OWNER_ID
+        value: "YOUR_TELEGRAM_USER_ID_HERE"
+      - name: MONGO_DB_URI
+        value: "YOUR_MONGODB_CONNECTION_STRING_HERE"
+      - name: LOG_GROUP_ID
+        value: "YOUR_LOG_GROUP_CHAT_ID_HERE"
+      - name: API_KEY
+        value: "YOUR_NEXGENBOTS_API_KEY_HERE"
+      - name: DURATION_LIMIT
+        value: "60"
+      - name: SUPPORT_CHANNEL
+        value: "https://t.me/musicbyosamu"
+      - name: SUPPORT_GROUP
+        value: "https://t.me/osamumusic"
