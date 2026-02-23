@@ -7,21 +7,21 @@ services:
     instance_type: micro
     env:
       - name: API_ID
-        value: "YOUR_API_ID_HERE"
+        value: "19703932"
       - name: API_HASH
-        value: "YOUR_API_HASH_HERE"
+        value: "2fe31e84e0b537b505f528e62e114664"
       - name: BOT_TOKEN
-        value: "YOUR_BOT_TOKEN_HERE"
+        value: "7654055081:AAFJSMVlJ1nZtZSeYiU9hLsl_4AVgUoAiHs"
       - name: STRING_SESSION
-        value: "YOUR_PYROGRAM_SESSION_STRING_HERE"
+        value: "BQH-I_EACcVpm7uTbH9dnYKlUtaqi14D1sjH2fesfAcq2UI98eClGv45XlHir1IyMaYArjzSpPSDbmtHnK5WoAJAILuudYI8juved4Flwgau6smu-sahEPM5TWgLOBgvlAcAFO6qWUtk7-NwHjWeMQvNldCWzRXNkQmwSrPAFhNxQLkO91cDYoiRBRxRusJbo96kLFuKRwyH1n3qdeQoL0QDVuFR4UQWvA6aL-0l0xteXYo24Nua7agX4tu0ZE1lzuoZPDlbKDWXGKtOV_LmQU_eGdWxxCLV42I0rZjfo4BQhZDVN1JEP55M1qiFHPeLMK-ccrMEhku4A-nmTncC_-AruNpEQAAAAAGTEXrJAA "
       - name: OWNER_ID
-        value: "YOUR_TELEGRAM_USER_ID_HERE"
+        value: "1735522859"
       - name: MONGO_DB_URI
-        value: "YOUR_MONGODB_CONNECTION_STRING_HERE"
+        value: "mongodb+srv://kyanzin278:308240os@cluster0.p4svbtd.mongodb.net/?appName=Cluster0"
       - name: LOG_GROUP_ID
-        value: "YOUR_LOG_GROUP_CHAT_ID_HERE"
+        value: "-1002849045181"
       - name: API_KEY
-        value: "YOUR_NEXGENBOTS_API_KEY_HERE"
+        value: "30DxNexGenBots427b9e"
       - name: DURATION_LIMIT
         value: "60"
       - name: SUPPORT_CHANNEL
