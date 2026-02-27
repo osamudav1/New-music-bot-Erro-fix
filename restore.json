@@ -1,0 +1,1108 @@
+{
+    "movies": [
+        {
+            "movie_name": "အရာအားလုံးကို ထိန်းချုပ်နိုင်သူ",
+            "movie_code": "0001",
+            "message_id": 209,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "သိုင်းနတ်ဘုရား၏ဘဝခရီးကြမ်း",
+            "movie_code": "0002",
+            "message_id": 208,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "နတ်ဘုရားများသည် ငါ၏ကျွန်များဖြစ်ကြ၏",
+            "movie_code": "0003",
+            "message_id": 207,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "နဂါးခွင်းသော ကောင်းကင်ပြင်",
+            "movie_code": "0004",
+            "message_id": 206,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "စော်ကြည်ဘဲအလုပ်သမားလေးရဲ့ဘဝ",
+            "movie_code": "0005",
+            "message_id": 205,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ချမ်းသာခြင်း စနစ်ပိုင်ဆိုင်သူ",
+            "movie_code": "0006",
+            "message_id": 204,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "အနန္တတရား၏နိယာမ",
+            "movie_code": "0007",
+            "message_id": 203,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ကောင်းကင်ဘုံသို့ စစ်ပြိုင်ခြင်း",
+            "movie_code": "0008",
+            "message_id": 197,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "နွားကျောင်းသားလေးရဲ့ နတ်ဘုရားမှတ်တမ်း",
+            "movie_code": "0009",
+            "message_id": 198,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "အမတတစ်ပါး၏ကိုယ်ပိုင်လမ်းစဉ်",
+            "movie_code": "0010",
+            "message_id": 201,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "တာအိုဘုံအထက်က နတ်အရှင်",
+            "movie_code": "0011",
+            "message_id": 202,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "စစ်နတ်ဘုရား\nGod Of War",
+            "movie_code": "0012",
+            "message_id": 200,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ဓားမုန်တိုင်း\nSword Rises in the Storm",
+            "movie_code": "0013",
+            "message_id": 199,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "🍀 Black Clover 🍀",
+            "movie_code": "0014",
+            "message_id": 182,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "🕯️ Grave of the Fireflies (火垂るの墓) 🕯️",
+            "movie_code": "0015",
+            "message_id": 193,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Summer Ghosts 🎆",
+            "movie_code": "0016",
+            "message_id": 192,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "🌤️ Weathering With You 🌤️",
+            "movie_code": "0017",
+            "message_id": 191,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "🌊 Ride Your Wave 🌊",
+            "movie_code": "0018",
+            "message_id": 190,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "⛩️ The Tunnel to Summer, the Exit of Goodbyes ⛩️",
+            "movie_code": "0019",
+            "message_id": 189,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Hotarubi no Mori e (蛍火の杜へ",
+            "movie_code": "0020",
+            "message_id": 196,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Fena: Pirate Princess 🏴‍☠️",
+            "movie_code": "0021",
+            "message_id": 188,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "🤖 DARLING in the FRANXX 🤖",
+            "movie_code": "0022",
+            "message_id": 187,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Alya Sometimes Hides Her Feelings in Russian 🇷🇺",
+            "movie_code": "0023",
+            "message_id": 186,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "The Fragrant Flower Blooms with Dignity 🌸",
+            "movie_code": "0024",
+            "message_id": 185,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Jujutsu Kaisen season 3",
+            "movie_code": "0025",
+            "message_id": 184,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "အရာအားလုံးကို ဆင့်ခေါ်နိုင်သောသူ",
+            "movie_code": "0026",
+            "message_id": 210,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Primate (2026)",
+            "movie_code": "0027",
+            "message_id": 211,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "သိုင်းလောကရဲ့အရှင်သခင်",
+            "movie_code": "0028",
+            "message_id": 212,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "San Andreas (2015)",
+            "movie_code": "0029",
+            "message_id": 213,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Seraph of the End",
+            "movie_code": "0030",
+            "message_id": 214,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "My Love From The Stars, 2013",
+            "movie_code": "0031",
+            "message_id": 215,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "🎬 In Spectre (Kyokou Suiri)",
+            "movie_code": "0032",
+            "message_id": 216,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "နတ်တိုင်းပြည်၏ကြမ္မာနတ်ဘုရား \n[ Over the Divine Realms ]",
+            "movie_code": "0033",
+            "message_id": 217,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Swallowed Star",
+            "movie_code": "0034",
+            "message_id": 218,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Little Man",
+            "movie_code": "0035",
+            "message_id": 219,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "သရဲတွေကို ရောင်းစားပြီးအရောင်းအဝယ် လုပ်လို့ရတဲ့ သရဲဈေး ဇာတ်ကားသစ်",
+            "movie_code": "0036",
+            "message_id": 220,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "86 -Eighty Six-",
+            "movie_code": "0037",
+            "message_id": 221,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "မြေစာရုပ်ရှင်",
+            "movie_code": "0038",
+            "message_id": 222,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ချစ်သူထွင်းတဲ့အက္ခရာ",
+            "movie_code": "0039",
+            "message_id": 223,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ပက်ပက်စက်စက်ညို့",
+            "movie_code": "0040",
+            "message_id": 224,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "မဟူရာရုပ်ရှင်ရုံ သရဲကား",
+            "movie_code": "0041",
+            "message_id": 225,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Series ဇာတ်လမ်းတွဲများ part (1)",
+            "movie_code": "0042",
+            "message_id": 226,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Re:Creators",
+            "movie_code": "0043",
+            "message_id": 227,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "battleoffates",
+            "movie_code": "0044",
+            "message_id": 228,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "The_Villagers (2018)",
+            "movie_code": "0045",
+            "message_id": 230,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "BLUMHOUSES The Craft: Legacy (2020)",
+            "movie_code": "0046",
+            "message_id": 231,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "လက်စွပ်",
+            "movie_code": "0047",
+            "message_id": 232,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Silent hill",
+            "movie_code": "0048",
+            "message_id": 234,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "တစေကပ်နေတဲ့ရွာ",
+            "movie_code": "0049",
+            "message_id": 235,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "လူဘီလူး",
+            "movie_code": "0050",
+            "message_id": 237,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Man in love",
+            "movie_code": "0051",
+            "message_id": 238,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ကြိမ်နှုန်း",
+            "movie_code": "0052",
+            "message_id": 239,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Good by",
+            "movie_code": "0053",
+            "message_id": 240,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Tron as",
+            "movie_code": "0054",
+            "message_id": 241,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Dr little",
+            "movie_code": "0055",
+            "message_id": 242,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Battle feel",
+            "movie_code": "0056",
+            "message_id": 243,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Event is this",
+            "movie_code": "0057",
+            "message_id": 244,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "AttrAttractact",
+            "movie_code": "0058",
+            "message_id": 245,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Jurassic World Rebirth (2025)",
+            "movie_code": "0059",
+            "message_id": 248,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Kingdom",
+            "movie_code": "0060",
+            "message_id": 249,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "Shadows in place",
+            "movie_code": "0061",
+            "message_id": 250,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ထိုင်းသရဲကား",
+            "movie_code": "0062",
+            "message_id": 251,
+            "storage_chat_id": -1003537436108
+        },
+        {
+            "movie_name": "ရေဘဝဲကား",
+            "movie_code": "0063",
+            "message_id": 252,
+            "storage_chat_id": -1003537436108
+        }
+    ],
+    "users": [
+        {
+            "user_id": 1735522859,
+            "last_search": "2026-02-25T12:34:50.279438",
+            "join_date": "2026-02-13T16:34:18.271729",
+            "search_count": 6
+        },
+        {
+            "user_id": 6762363593,
+            "last_search": "2026-02-26T17:06:13.632240",
+            "join_date": "2026-02-13T16:59:46.795753",
+            "name": "SeaTV",
+            "mention": "<a href=\"tg://user?id=6762363593\">SeaTV</a>",
+            "search_count": 5
+        },
+        {
+            "user_id": 1976694161,
+            "last_search": null,
+            "join_date": "2026-02-14T10:30:18.500462",
+            "name": "ŠĤĪ Ĥäō",
+            "mention": "<a href=\"tg://user?id=1976694161\">ŠĤĪ Ĥäō</a>"
+        },
+        {
+            "user_id": 1773316232,
+            "last_search": "2026-02-21T04:00:11.301598",
+            "join_date": "2026-02-14T12:14:49.918798",
+            "name": "Three Dimond",
+            "mention": "<a href=\"tg://user?id=1773316232\">Three Dimond</a>"
+        },
+        {
+            "user_id": 6695235888,
+            "last_search": null,
+            "join_date": "2026-02-14T14:14:02.968937",
+            "name": "M",
+            "mention": "<a href=\"tg://user?id=6695235888\">M</a>"
+        },
+        {
+            "user_id": 7969207503,
+            "last_search": null,
+            "join_date": "2026-02-15T00:12:05.548668",
+            "name": "Fers Time",
+            "mention": "<a href=\"tg://user?id=7969207503\">Fers Time</a>"
+        },
+        {
+            "user_id": 7314778922,
+            "last_search": "2026-02-15T02:41:14.041685",
+            "join_date": "2026-02-15T02:36:51.625859",
+            "name": "PAIN 🐾",
+            "mention": "<a href=\"tg://user?id=7314778922\">PAIN 🐾</a>"
+        },
+        {
+            "user_id": 7952209784,
+            "last_search": null,
+            "join_date": "2026-02-15T04:04:29.955432",
+            "name": "Rain Hourse",
+            "mention": "<a href=\"tg://user?id=7952209784\">Rain Hourse</a>"
+        },
+        {
+            "user_id": 5855596271,
+            "last_search": "2026-02-15T06:16:18.994991",
+            "join_date": "2026-02-15T06:15:24.005204",
+            "name": "Tele Gram",
+            "mention": "<a href=\"tg://user?id=5855596271\">Tele Gram</a>"
+        },
+        {
+            "user_id": 5197144836,
+            "last_search": null,
+            "join_date": "2026-02-15T06:19:15.328346",
+            "name": "Sanji",
+            "mention": "<a href=\"tg://user?id=5197144836\">Sanji</a>"
+        },
+        {
+            "user_id": 1915141325,
+            "last_search": null,
+            "join_date": "2026-02-15T10:05:57.694537",
+            "name": "Ye Swarm",
+            "mention": "<a href=\"tg://user?id=1915141325\">Ye Swarm</a>"
+        },
+        {
+            "user_id": 7557476323,
+            "last_search": "2026-02-25T14:03:00.316971",
+            "join_date": "2026-02-15T14:17:15.373565",
+            "name": "Ko Pyae",
+            "mention": "<a href=\"tg://user?id=7557476323\">Ko Pyae</a>",
+            "search_count": 1
+        },
+        {
+            "user_id": 8450205666,
+            "last_search": null,
+            "join_date": "2026-02-15T16:14:32.080760",
+            "name": "Aungzaw Min",
+            "mention": "<a href=\"tg://user?id=8450205666\">Aungzaw Min</a>"
+        },
+        {
+            "user_id": 1155499453,
+            "last_search": null,
+            "join_date": "2026-02-15T18:04:48.054569",
+            "name": "Gunner 2021",
+            "mention": "<a href=\"tg://user?id=1155499453\">Gunner 2021</a>"
+        },
+        {
+            "user_id": 7060252191,
+            "last_search": null,
+            "join_date": "2026-02-16T03:02:22.306144",
+            "name": "AUNG AUNG",
+            "mention": "<a href=\"tg://user?id=7060252191\">AUNG AUNG</a>"
+        },
+        {
+            "user_id": 6846723030,
+            "last_search": "2026-02-16T10:02:29.643625",
+            "join_date": "2026-02-16T03:27:10.239759",
+            "name": "Kyi Htet Min",
+            "mention": "<a href=\"tg://user?id=6846723030\">Kyi Htet Min</a>"
+        },
+        {
+            "user_id": 1668651084,
+            "last_search": "2026-02-16T03:59:17.531840",
+            "join_date": "2026-02-16T03:43:12.549784",
+            "name": "Yewin Naung",
+            "mention": "<a href=\"tg://user?id=1668651084\">Yewin Naung</a>"
+        },
+        {
+            "user_id": 8285389413,
+            "last_search": null,
+            "join_date": "2026-02-16T06:44:13.110777",
+            "name": "Ya Ya",
+            "mention": "<a href=\"tg://user?id=8285389413\">Ya Ya</a>"
+        },
+        {
+            "user_id": 7910279277,
+            "last_search": null,
+            "join_date": "2026-02-16T07:39:40.591609",
+            "name": "Thar Su Phaung",
+            "mention": "<a href=\"tg://user?id=7910279277\">Thar Su Phaung</a>"
+        },
+        {
+            "user_id": 8320249740,
+            "last_search": null,
+            "join_date": "2026-02-16T09:02:57.136972",
+            "name": "Ko O Win",
+            "mention": "<a href=\"tg://user?id=8320249740\">Ko O Win</a>"
+        },
+        {
+            "user_id": 8107915244,
+            "last_search": null,
+            "join_date": "2026-02-16T12:18:03.128774",
+            "name": "aung myo 😁😁",
+            "mention": "<a href=\"tg://user?id=8107915244\">aung myo 😁😁</a>"
+        },
+        {
+            "user_id": 6215035055,
+            "last_search": null,
+            "join_date": "2026-02-16T12:32:08.470043",
+            "name": "Lin Lin",
+            "mention": "<a href=\"tg://user?id=6215035055\">Lin Lin</a>"
+        },
+        {
+            "user_id": 7575319302,
+            "last_search": null,
+            "join_date": "2026-02-16T12:32:39.465553",
+            "name": "Min",
+            "mention": "<a href=\"tg://user?id=7575319302\">Min</a>"
+        },
+        {
+            "user_id": 5888967194,
+            "last_search": null,
+            "join_date": "2026-02-16T12:35:30.007732",
+            "name": "Ko Ko",
+            "mention": "<a href=\"tg://user?id=5888967194\">Ko Ko</a>"
+        },
+        {
+            "user_id": 6402710678,
+            "last_search": null,
+            "join_date": "2026-02-16T13:04:53.554698",
+            "name": "ယာယီ ယာယီ",
+            "mention": "<a href=\"tg://user?id=6402710678\">ယာယီ ယာယီ</a>"
+        },
+        {
+            "user_id": 7696622903,
+            "last_search": null,
+            "join_date": "2026-02-16T15:32:53.554263",
+            "name": "Pp Ppt",
+            "mention": "<a href=\"tg://user?id=7696622903\">Pp Ppt</a>"
+        },
+        {
+            "user_id": 8016323123,
+            "last_search": "2026-02-16T17:12:17.158027",
+            "join_date": "2026-02-16T17:10:06.974991",
+            "name": "Hein .",
+            "mention": "<a href=\"tg://user?id=8016323123\">Hein .</a>"
+        },
+        {
+            "user_id": 7507230729,
+            "last_search": "2026-02-17T02:00:16.115179",
+            "join_date": "2026-02-17T01:42:09.705925",
+            "name": "ခလ",
+            "mention": "<a href=\"tg://user?id=7507230729\">ခလ</a>"
+        },
+        {
+            "user_id": 7276826040,
+            "last_search": null,
+            "join_date": "2026-02-17T15:15:02.676269",
+            "name": "OHN MAR",
+            "mention": "<a href=\"tg://user?id=7276826040\">OHN MAR</a>"
+        },
+        {
+            "user_id": 1935217253,
+            "last_search": "2026-02-17T15:21:53.499083",
+            "join_date": "2026-02-17T15:18:56.375648",
+            "name": "Si Thu",
+            "mention": "<a href=\"tg://user?id=1935217253\">Si Thu</a>"
+        },
+        {
+            "user_id": 7790301365,
+            "last_search": null,
+            "join_date": "2026-02-17T15:19:23.664947",
+            "name": "N",
+            "mention": "<a href=\"tg://user?id=7790301365\">N</a>"
+        },
+        {
+            "user_id": 8458521002,
+            "last_search": "2026-02-21T06:37:08.310941",
+            "join_date": "2026-02-17T15:23:41.132590",
+            "name": "soe thet",
+            "mention": "<a href=\"tg://user?id=8458521002\">soe thet</a>"
+        },
+        {
+            "user_id": 8141515897,
+            "last_search": "2026-02-17T15:45:04.059895",
+            "join_date": "2026-02-17T15:43:58.707923",
+            "name": "Dolly",
+            "mention": "<a href=\"tg://user?id=8141515897\">Dolly</a>"
+        },
+        {
+            "user_id": 5963867482,
+            "last_search": null,
+            "join_date": "2026-02-17T16:14:48.634944",
+            "name": "Ei Ti",
+            "mention": "<a href=\"tg://user?id=5963867482\">Ei Ti</a>"
+        },
+        {
+            "user_id": 8382720514,
+            "last_search": null,
+            "join_date": "2026-02-17T16:17:43.005157",
+            "name": "Ka Vai Ka Vai",
+            "mention": "<a href=\"tg://user?id=8382720514\">Ka Vai Ka Vai</a>"
+        },
+        {
+            "user_id": 5718559293,
+            "last_search": "2026-02-17T16:40:57.908345",
+            "join_date": "2026-02-17T16:36:20.220436",
+            "name": "ko ko",
+            "mention": "<a href=\"tg://user?id=5718559293\">ko ko</a>"
+        },
+        {
+            "user_id": 6174248259,
+            "last_search": null,
+            "join_date": "2026-02-17T17:16:29.649490",
+            "name": "La Pyae",
+            "mention": "<a href=\"tg://user?id=6174248259\">La Pyae</a>"
+        },
+        {
+            "user_id": 5344580200,
+            "last_search": null,
+            "join_date": "2026-02-17T18:46:24.227629",
+            "name": "MX MX",
+            "mention": "<a href=\"tg://user?id=5344580200\">MX MX</a>"
+        },
+        {
+            "user_id": 8551780723,
+            "last_search": null,
+            "join_date": "2026-02-18T01:23:56.821145",
+            "name": "Ko Soe Nanig",
+            "mention": "<a href=\"tg://user?id=8551780723\">Ko Soe Nanig</a>"
+        },
+        {
+            "user_id": 6176396613,
+            "last_search": null,
+            "join_date": "2026-02-18T01:39:16.369320",
+            "name": "Pyae phyo Maung",
+            "mention": "<a href=\"tg://user?id=6176396613\">Pyae phyo Maung</a>"
+        },
+        {
+            "user_id": 1684638436,
+            "last_search": null,
+            "join_date": "2026-02-18T03:17:04.022199",
+            "name": "Nat Thar",
+            "mention": "<a href=\"tg://user?id=1684638436\">Nat Thar</a>"
+        },
+        {
+            "user_id": 6969540838,
+            "last_search": null,
+            "join_date": "2026-02-18T03:29:54.862457",
+            "name": "PPop Jt",
+            "mention": "<a href=\"tg://user?id=6969540838\">PPop Jt</a>"
+        },
+        {
+            "user_id": 5508157293,
+            "last_search": null,
+            "join_date": "2026-02-18T03:57:58.097726",
+            "name": "Ha ppy",
+            "mention": "<a href=\"tg://user?id=5508157293\">Ha ppy</a>"
+        },
+        {
+            "user_id": 5885101352,
+            "last_search": null,
+            "join_date": "2026-02-18T04:31:37.021298",
+            "name": "Thura ko",
+            "mention": "<a href=\"tg://user?id=5885101352\">Thura ko</a>"
+        },
+        {
+            "user_id": 6922340926,
+            "last_search": null,
+            "join_date": "2026-02-18T07:23:29.129369",
+            "name": "𝕂𝕙𝕒𝕟𝕥 𝒦𝓎𝒶𝓌 𝓚𝔂𝓪𝔀",
+            "mention": "<a href=\"tg://user?id=6922340926\">𝕂𝕙𝕒𝕟𝕥 𝒦𝓎𝒶𝓌 𝓚𝔂𝓪𝔀</a>"
+        },
+        {
+            "user_id": 710541888,
+            "last_search": "2026-02-18T08:18:08.108265",
+            "join_date": "2026-02-18T08:15:16.441996",
+            "name": "Alexander",
+            "mention": "<a href=\"tg://user?id=710541888\">Alexander</a>"
+        },
+        {
+            "user_id": 6454919601,
+            "last_search": "2026-02-18T16:31:45.682031",
+            "join_date": "2026-02-18T16:28:25.816998",
+            "name": "Yati Ti",
+            "mention": "<a href=\"tg://user?id=6454919601\">Yati Ti</a>"
+        },
+        {
+            "user_id": 8120119709,
+            "last_search": "2026-02-19T02:36:34.511151",
+            "join_date": "2026-02-19T02:34:32.964065",
+            "name": "Pyae Sone",
+            "mention": "<a href=\"tg://user?id=8120119709\">Pyae Sone</a>"
+        },
+        {
+            "user_id": 8248848963,
+            "last_search": "2026-02-19T15:28:00.082431",
+            "join_date": "2026-02-19T15:27:11.667238",
+            "name": "Kuri Kuu",
+            "mention": "<a href=\"tg://user?id=8248848963\">Kuri Kuu</a>"
+        },
+        {
+            "user_id": 8429373414,
+            "last_search": null,
+            "join_date": "2026-02-20T02:25:29.633643",
+            "name": "Thet Phoo San",
+            "mention": "<a href=\"tg://user?id=8429373414\">Thet Phoo San</a>"
+        },
+        {
+            "user_id": 7673832021,
+            "last_search": "2026-02-20T03:04:03.249613",
+            "join_date": "2026-02-20T03:01:45.895085",
+            "name": "Lollipop",
+            "mention": "<a href=\"tg://user?id=7673832021\">Lollipop</a>"
+        },
+        {
+            "user_id": 2020010736,
+            "last_search": null,
+            "join_date": "2026-02-20T06:34:08.777089",
+            "name": "@Quality-Niko...",
+            "mention": "<a href=\"tg://user?id=2020010736\">@Quality-Niko...</a>"
+        },
+        {
+            "user_id": 6470588513,
+            "last_search": null,
+            "join_date": "2026-02-20T10:44:03.279176",
+            "name": "Lori",
+            "mention": "<a href=\"tg://user?id=6470588513\">Lori</a>"
+        },
+        {
+            "user_id": 8308484157,
+            "last_search": null,
+            "join_date": "2026-02-20T12:34:50.691596",
+            "name": "Tun",
+            "mention": "<a href=\"tg://user?id=8308484157\">Tun</a>"
+        },
+        {
+            "user_id": 5859479071,
+            "last_search": null,
+            "join_date": "2026-02-20T12:43:50.191634",
+            "name": "Thiha",
+            "mention": "<a href=\"tg://user?id=5859479071\">Thiha</a>"
+        },
+        {
+            "user_id": 6563987524,
+            "last_search": null,
+            "join_date": "2026-02-20T17:34:13.750229",
+            "name": "Kaung KhantZaw",
+            "mention": "<a href=\"tg://user?id=6563987524\">Kaung KhantZaw</a>"
+        },
+        {
+            "user_id": 8336113776,
+            "last_search": null,
+            "join_date": "2026-02-20T22:01:49.858264",
+            "name": "Toe Toe",
+            "mention": "<a href=\"tg://user?id=8336113776\">Toe Toe</a>"
+        },
+        {
+            "user_id": 7088606320,
+            "last_search": null,
+            "join_date": "2026-02-21T02:08:24.597734",
+            "name": "May🤍",
+            "mention": "<a href=\"tg://user?id=7088606320\">May🤍</a>"
+        },
+        {
+            "user_id": 8584626413,
+            "last_search": "2026-02-21T05:12:23.183014",
+            "join_date": "2026-02-21T05:11:23.715312",
+            "name": "U Sai Htet Kyaw",
+            "mention": "<a href=\"tg://user?id=8584626413\">U Sai Htet Kyaw</a>"
+        },
+        {
+            "user_id": 5844296667,
+            "last_search": null,
+            "join_date": "2026-02-21T06:37:03.546638",
+            "name": "Kaung Myat Thu",
+            "mention": "<a href=\"tg://user?id=5844296667\">Kaung Myat Thu</a>"
+        },
+        {
+            "user_id": 7376676536,
+            "last_search": null,
+            "join_date": "2026-02-21T11:20:51.788253",
+            "name": "Zylin",
+            "mention": "<a href=\"tg://user?id=7376676536\">Zylin</a>"
+        },
+        {
+            "user_id": 6539587841,
+            "last_search": "2026-02-24T02:33:22.560085",
+            "join_date": "2026-02-22T04:30:15.330960",
+            "name": "nay htwe",
+            "mention": "<a href=\"tg://user?id=6539587841\">nay htwe</a>"
+        },
+        {
+            "user_id": 8084568987,
+            "last_search": "2026-02-22T06:45:50.713754",
+            "join_date": "2026-02-22T06:37:01.393616",
+            "name": "ko soe",
+            "mention": "<a href=\"tg://user?id=8084568987\">ko soe</a>"
+        },
+        {
+            "user_id": 7165594360,
+            "last_search": null,
+            "join_date": "2026-02-22T13:49:48.776091",
+            "name": "Kyawkyaw Lay",
+            "mention": "<a href=\"tg://user?id=7165594360\">Kyawkyaw Lay</a>"
+        },
+        {
+            "user_id": 5847765401,
+            "last_search": null,
+            "join_date": "2026-02-23T05:44:52.881419",
+            "name": "Solitary Person",
+            "mention": "<a href=\"tg://user?id=5847765401\">Solitary Person</a>"
+        },
+        {
+            "user_id": 7977200584,
+            "last_search": null,
+            "join_date": "2026-02-23T06:42:09.857895",
+            "name": "KhaingLay KhaingLay",
+            "mention": "<a href=\"tg://user?id=7977200584\">KhaingLay KhaingLay</a>"
+        },
+        {
+            "user_id": 5620363800,
+            "last_search": null,
+            "join_date": "2026-02-23T10:00:58.101995",
+            "name": "ヤン・ ミョナイン💔",
+            "mention": "<a href=\"tg://user?id=5620363800\">ヤン・ ミョナイン💔</a>"
+        },
+        {
+            "user_id": 8214053329,
+            "last_search": null,
+            "join_date": "2026-02-23T13:29:14.565647",
+            "name": "Zin Aung Phyo",
+            "mention": "<a href=\"tg://user?id=8214053329\">Zin Aung Phyo</a>"
+        },
+        {
+            "user_id": 7396022949,
+            "last_search": null,
+            "join_date": "2026-02-23T13:52:07.228158",
+            "name": "Ash er",
+            "mention": "<a href=\"tg://user?id=7396022949\">Ash er</a>"
+        },
+        {
+            "user_id": 8337998543,
+            "last_search": "2026-02-23T15:54:10.720378",
+            "join_date": "2026-02-23T15:53:24.035404",
+            "name": "⁴²⁰•ʙᴀʙʏ ʏᴜᴋɪ",
+            "mention": "<a href=\"tg://user?id=8337998543\">⁴²⁰•ʙᴀʙʏ ʏᴜᴋɪ</a>"
+        },
+        {
+            "user_id": 7658093298,
+            "last_search": null,
+            "join_date": "2026-02-24T00:44:00.849829",
+            "name": "Wine Eaindray",
+            "mention": "<a href=\"tg://user?id=7658093298\">Wine Eaindray</a>"
+        },
+        {
+            "user_id": 8481191200,
+            "last_search": null,
+            "join_date": "2026-02-24T03:43:09.673855",
+            "name": "@myatpannaye myatp",
+            "mention": "<a href=\"tg://user?id=8481191200\">@myatpannaye myatp</a>"
+        },
+        {
+            "user_id": 5935705384,
+            "last_search": null,
+            "join_date": "2026-02-25T05:16:31.240493",
+            "name": "Lord Arthur",
+            "mention": "<a href=\"tg://user?id=5935705384\">Lord Arthur</a>",
+            "search_count": 0
+        },
+        {
+            "user_id": 7816505753,
+            "last_search": "2026-02-25T12:14:14.099660",
+            "join_date": "2026-02-25T12:13:08.921186",
+            "name": "ThanMyo Zaw",
+            "mention": "<a href=\"tg://user?id=7816505753\">ThanMyo Zaw</a>",
+            "search_count": 1
+        },
+        {
+            "user_id": 1879124089,
+            "last_search": "2026-02-25T22:21:38.904335",
+            "join_date": "2026-02-25T22:17:05.642628",
+            "name": "Alex",
+            "mention": "<a href=\"tg://user?id=1879124089\">Alex</a>",
+            "search_count": 2
+        },
+        {
+            "user_id": 6631568305,
+            "last_search": "2026-02-26T02:50:38.119404",
+            "join_date": "2026-02-26T02:47:42.067423",
+            "name": "🖐️",
+            "mention": "<a href=\"tg://user?id=6631568305\">🖐️</a>",
+            "search_count": 1
+        },
+        {
+            "user_id": 6941117926,
+            "last_search": null,
+            "join_date": "2026-02-26T04:41:13.391427",
+            "name": "Joy Boy Opr",
+            "mention": "<a href=\"tg://user?id=6941117926\">Joy Boy Opr</a>",
+            "search_count": 0
+        },
+        {
+            "user_id": 7687089029,
+            "last_search": null,
+            "join_date": "2026-02-26T08:40:42.037289",
+            "name": "Si Thu",
+            "mention": "<a href=\"tg://user?id=7687089029\">Si Thu</a>",
+            "search_count": 0
+        },
+        {
+            "user_id": 5393165167,
+            "last_search": null,
+            "join_date": "2026-02-26T12:37:13.763974",
+            "name": "Kyaw Ko Ko Khant",
+            "mention": "<a href=\"tg://user?id=5393165167\">Kyaw Ko Ko Khant</a>",
+            "search_count": 0
+        },
+        {
+            "user_id": 7461133371,
+            "last_search": null,
+            "join_date": "2026-02-26T16:28:50.931211",
+            "name": "Pÿäě Ĝýî",
+            "mention": "<a href=\"tg://user?id=7461133371\">Pÿäě Ĝýî</a>",
+            "search_count": 0
+        }
+    ],
+    "settings": [
+        {
+            "key": "maint",
+            "value": "off"
+        },
+        {
+            "key": "welcome_photo_index",
+            "value": 0
+        },
+        {
+            "key": "last_ad_index",
+            "value": 1
+        }
+    ],
+    "force_channels": [
+        {
+            "id": 1,
+            "chat_id": -1002660569124,
+            "title": "SeaTV - MM Main Channel",
+            "invite": "https://t.me/+KTeaWcjieXo3ZDI1"
+        },
+        {
+            "id": 2,
+            "chat_id": -1003715679661,
+            "title": "SeaTv-MM Anime",
+            "invite": "https://t.me/+EUhP52egi7c0Y2Jl"
+        },
+        {
+            "id": 4,
+            "chat_id": -1003751299274,
+            "title": "SeaTv-MM 2D",
+            "invite": "https://t.me/+LTHr2CANNiIzNzI1"
+        },
+        {
+            "id": 6,
+            "chat_id": -1002408267666,
+            "title": "Movie Land Channel 1",
+            "invite": "https://t.me/+o0CN6xc8v7wwNzVl"
+        },
+        {
+            "id": 5,
+            "chat_id": -1002261477407,
+            "title": "Movie Land Channel | Main",
+            "invite": "https://t.me/+znRy768KkmY0Yjk9"
+        }
+    ],
+    "auto_delete": [
+        {
+            "type": "group",
+            "seconds": 0
+        },
+        {
+            "type": "dm",
+            "seconds": 0
+        }
+    ],
+    "custom_texts": [
+        {
+            "key": "forcemsg",
+            "text": "⚠️BOTအသုံးပြခွင့် ကန့်သတ်ထားပါသည်။⚠️\n\n• BOT ကိုအသုံးပြုရန်အတွက်အောက်ပါ\nChannelများကို အရင်joinပေးထားရပါမည်။\n\n• joinပြီးပါက ✅Done✅ ကိုနှိပ်ပါ။\n\n•လုပ်ဆောင်ချက်အောင်မြင်ပါက\n\n•ဇာတ်ကား codeပို့၍ရှာလို့ရပါပြီ။",
+            "photo_id": null,
+            "sticker_id": null,
+            "animation_id": null
+        },
+        {
+            "key": "searching",
+            "text": "",
+            "photo_id": null,
+            "sticker_id": "CAACAgEAAxkBAAIow2mYWPHiWzHj-QQp5SemAisat5ahAAJjBQACNmLxRm8Wd86pTYRqOgQ",
+            "animation_id": null
+        },
+        {
+            "key": "start_button",
+            "text": "U",
+            "photo_id": null,
+            "sticker_id": null,
+            "animation_id": null
+        }
+    ],
+    "start_buttons": [
+        {
+            "id": 1,
+            "name": "ᴍᴏᴠɪᴇ ʟᴀɴᴅ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ",
+            "link": "https://t.me/Movie462",
+            "row": 0,
+            "type": "url",
+            "callback_data": null
+        },
+        {
+            "id": 3,
+            "name": "ᴍᴏᴠɪᴇ ʀᴇᴠɪᴇᴡ",
+            "link": "https://t.me/seatvmmreview",
+            "row": 1,
+            "type": "url",
+            "callback_data": null
+        },
+        {
+            "id": 3,
+            "name": "ᴍᴏᴠɪᴇ ʟᴀɴᴅ ₁",
+            "link": "https://t.me/movieland1123",
+            "row": 1,
+            "type": "url",
+            "callback_data": null
+        },
+        {
+            "id": 4,
+            "name": "ɢʀᴏᴜᴘ ₁",
+            "link": "https://t.me/osamu1123gp",
+            "row": 2,
+            "type": "url",
+            "callback_data": null
+        },
+        {
+            "id": 5,
+            "name": "ɢʀᴏᴜᴘ ₂",
+            "link": "https://t.me/lovable_group",
+            "row": 2,
+            "type": "url",
+            "callback_data": null
+        },
+        {
+            "id": 6,
+            "name": "⚜️ᴏᴡɴᴇʀ⚜️",
+            "link": "@osamu1123",
+            "row": 3,
+            "type": "popup",
+            "callback_data": "popup_@osamu1123"
+        }
+    ],
+    "start_welcome": [
+        {
+            "id": 3,
+            "text": "မဂ်လာပါ {mention}\n\n*SeaTv-MM*မှကြိုဆိုပါတယ်🫶🏻\n\nအောက်ကMain Channel လေးကိုjoinပီးကြည့်ရှု့နိုင်ပါပီ👮🏻‍♂️\n\n*Powers By* | @SeaTvMM1_bot",
+            "photo_id": "AgACAgUAAxkBAAIr3mmedCPfJImerFerSwQTSjUi-X_iAAL9DWsbh_L4VCqu9lr17d2ZAQADAgADeQADOgQ",
+            "caption": "မဂ်လာပါ {mention}\n\n*SeaTv-MM*မှကြိုဆိုပါတယ်🫶🏻\n\nအောက်ကMain Channel လေးကိုjoinပီးကြည့်ရှု့နိုင်ပါပီ👮🏻‍♂️\n\n*Powers By* | @SeaTvMM1_bot"
+        },
+        {
+            "id": 2,
+            "text": "မဂ်လာပါ {mention}\n\n*SeaTv-MM*မှကြိုဆိုပါတယ်🫶🏻\n\nအောက်ကMain Channel လေးကိုjoinပီးကြည့်ရှု့နိုင်ပါပီ👮🏻‍♂️\n\n*Powers By* | @SeaTvMM1_bot",
+            "photo_id": "AgACAgUAAxkBAAIr0mmecj-jW4530ThzlvxP8aIVtu13AAL4DWsbh_L4VIt2aBz6C3VnAQADAgADeQADOgQ",
+            "caption": "မဂ်လာပါ {mention}\n\n*SeaTv-MM*မှကြိုဆိုပါတယ်🫶🏻\n\nအောက်ကMain Channel လေးကိုjoinပီးကြည့်ရှု့နိုင်ပါပီ👮🏻‍♂️\n\n*Powers By* | @SeaTvMM1_bot"
+        }
+    ],
+    "ads": [
+        {
+            "id": 1,
+            "message_id": 580,
+            "storage_chat_id": -1002849045181
+        },
+        {
+            "id": 2,
+            "message_id": 582,
+            "storage_chat_id": -1002849045181
+        }
+    ]
+}
